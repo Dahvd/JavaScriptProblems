@@ -55,16 +55,9 @@ const zigZag = (word, k) => {
                     zigg.push(' ');
                     j += 1;
                 } 
-                j += 1;
-                // zigg.push(wordd[j]);
-                
+                j += 1;                
             }
-
-
             j += 1;
-
-
-
         }
         zigg.push('\n');
         
